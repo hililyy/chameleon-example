@@ -1,0 +1,6 @@
+framework module Pods_ChameleonExample {
+  umbrella header "Pods-ChameleonExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
